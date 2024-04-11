@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate full-stack web developer. I enjoy working on all kinds of tech.</h3>
 - 🔭 I’m currently available **for new opportunities**
 
-- 👯 I’m looking to collaborate on **full-stack web developer Development Projects**
+- 👯 I’m looking to collaborate on **full-stack Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.mussiewebdeveloper.com/](https://www.mussiewebdeveloper.com/)
 
